@@ -1,11 +1,12 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  body: MyString
-  question_id: 
-  user_id: 
+answer_to_one:
+  body: User #1
+  question: one
+  user: answered_one
 
-two:
-  body: MyString
-  question_id: 
-  user_id: 
+answer_to_two:
+  body: User #2
+  question: two
+  user: answered_two
+

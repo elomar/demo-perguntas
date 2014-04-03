@@ -1,7 +1,10 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  body: MyString
+  body: What's your name?
 
 two:
-  body: MyString
+  body: How are you doing?
+
+three:
+  body: What's the answer to life, the universe and everything?

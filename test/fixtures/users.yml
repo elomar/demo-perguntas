@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
+answered_one:
+  name: User #1
 
-two:
-  name: MyString
+answered_two:
+  name: User #2
